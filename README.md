@@ -1,6 +1,6 @@
 # PolyglotWeb
 
- Declarative Fullstack Framework using Htmx Like and React Like features on the backend in multiple languages (Rust, Go, PHP, Lua)
+Declarative Fullstack Framework using Htmx Like frontend and React Like backend implemented in multiple languages (Rust, Go, PHP, Lua)
 
 # Reference
 
