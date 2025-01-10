@@ -6,6 +6,6 @@
 
 Build a minimal API with swagger definitions using the help of Cursor LLM in the 4 languages mocking the API request to https://arshuweb.fly.dev
 
-The swagger definitions are available in https://arshuweb.fly.dev/Scalar/v1
+The post request swagger definitions are available in https://arshuweb.fly.dev/Scalar/v1
 
 Document the prompts used in LLM to generate the bootstrap code
